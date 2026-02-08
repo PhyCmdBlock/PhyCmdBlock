@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **PhyCmdBlock/PhyCmdBlock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 个人简介
+大一学生，刚开始接触计算机领域。  
+
+**希望兴趣和对理解的渴求能带我走上这门学科的山顶**
