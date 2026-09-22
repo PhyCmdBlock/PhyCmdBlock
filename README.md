@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 
 # PhyCmdBlock
-大一学生，刚开始接触计算机领域。  
+大二学生，除了发几句提示词，其他的都还在学。  
